@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/chalchitraseries.iitjammu.ac.in/static/css/main.c401758d.css",
+    "main.js": "/chalchitraseries.iitjammu.ac.in/static/js/main.fd2a25a5.js",
+    "static/js/977.d35724d6.chunk.js": "/chalchitraseries.iitjammu.ac.in/static/js/977.d35724d6.chunk.js",
+    "static/js/455.8f5303f2.chunk.js": "/chalchitraseries.iitjammu.ac.in/static/js/455.8f5303f2.chunk.js",
+    "static/js/453.926f0775.chunk.js": "/chalchitraseries.iitjammu.ac.in/static/js/453.926f0775.chunk.js",
+    "index.html": "/chalchitraseries.iitjammu.ac.in/index.html",
+    "main.c401758d.css.map": "/chalchitraseries.iitjammu.ac.in/static/css/main.c401758d.css.map",
+    "main.fd2a25a5.js.map": "/chalchitraseries.iitjammu.ac.in/static/js/main.fd2a25a5.js.map",
+    "977.d35724d6.chunk.js.map": "/chalchitraseries.iitjammu.ac.in/static/js/977.d35724d6.chunk.js.map",
+    "455.8f5303f2.chunk.js.map": "/chalchitraseries.iitjammu.ac.in/static/js/455.8f5303f2.chunk.js.map",
+    "453.926f0775.chunk.js.map": "/chalchitraseries.iitjammu.ac.in/static/js/453.926f0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c401758d.css",
+    "static/js/main.fd2a25a5.js"
+  ]
+}
